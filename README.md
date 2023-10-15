@@ -1,4 +1,2 @@
 # CVIP-Java-Development-Intern
-BMI calculator
-
-Number Guessing Game
+BMI calculator 	<br> Number Guessing Game
